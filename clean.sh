@@ -1,4 +1,4 @@
 #!/bin/bash
 
-sort -u namen.txt > namen.uniq
-mv -f namen.uniq namen.txt
+sort -u names.txt > names.uniq
+mv -f names.uniq names.txt
